@@ -1,16 +1,18 @@
-### Hi there 👋
+# Olá, me chamo Adrieli Pinheiro! Sou estudante de Análise e Desenvolvimento de Sistemas e aluna do projeto Hackers do bem.
+- 🔭 Interesse em Cibersegurança e Engenharia de Software.
 
-<!--
-**AdrieliPinheiro/AdrieliPinheiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  ## Estou aprendendo
+  
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="30" height="30" alt="Linux" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />                  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" height="30" alt="Python" />
+</div>
 
-Here are some ideas to get you started:
+## Estatísticas do GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FerEnnes&layout=compact&langs_count=7&theme=dracula" align="left" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=FerEnnes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" align="right" width="48%" />
+  
+</div>
