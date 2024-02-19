@@ -12,7 +12,7 @@
 ## Estatísticas do GitHub
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FerEnnes&layout=compact&langs_count=7&theme=dracula" align="left" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=FerEnnes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" align="right" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdrieliPinheiro&layout=compact&langs_count=7&theme=dracula" align="left" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AdrieliPinheiro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" align="right" width="48%" />
   
 </div>
